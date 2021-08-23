@@ -1,5 +1,3 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
-
 Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
 
 ### Os requisitos são:
